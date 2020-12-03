@@ -1,5 +1,5 @@
 +++
-title = "My second post"
+title = "Postingan kedua"
 date = 2019-11-28
 +++
 
